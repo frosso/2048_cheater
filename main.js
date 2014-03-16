@@ -1,9 +1,3 @@
-var jq = document.createElement("script");
-jq.type = "text/javascript";
-jq.src = "http://code.jquery.com/jquery-1.11.0.min.js";
-var head_element = document.getElementsByTagName('HEAD').item(0);
-head_element.appendChild(jq);
-
 var settings_element = jQuery('<div>', {
     id: 'cheaterSettings',
     style: 'position:absolute;top:0px;right:0px;border:1px solid none',
