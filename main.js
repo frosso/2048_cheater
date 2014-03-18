@@ -99,6 +99,8 @@ function GameCheater(keyboard, randomizer, game_info, logger) {
 
         var object = this;
         timer_id = setInterval(function () {
+                var sequence = object.getSequence();
+
                 // game over?
                 if (game_info.isLost()) {
                     games_played++;
