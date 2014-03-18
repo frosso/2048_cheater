@@ -3,7 +3,7 @@
 
 Autoplayer for the 2048 Game.
 
-I made this because I was tired of starting a new game from the begin every time. Sto instead, I let this one play until I get to (say) a 512 tile, then I pause. This autoplayer just does a series of left, down, right, down movements and with a 1% chance it 'glitches', going up.
+I made this because I was tired of starting a new game from the begin every time. So instead, I let this one play until I get to (say) a 512 tile, then I pause. This autoplayer just does a series of left, down, right, down movements and with a 1% chance it 'glitches', going up.
 
 ## How to use it ##
 
